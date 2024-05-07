@@ -20,6 +20,7 @@ def count_upper_lower(string):
     print("No. of Lower case characters:", lower_count)
 
 count_upper_lower("Hello World")
+
 """
 Check 33
 """
